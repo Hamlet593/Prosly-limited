@@ -23,7 +23,6 @@ const Testimonal = () => {
                     <span>{val.post}</span>
                   </div>
                 </div>
-                <p>{val.desc}</p>
               </div>
             ))}
           </div>

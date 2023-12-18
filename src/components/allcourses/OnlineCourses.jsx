@@ -13,8 +13,8 @@ const OnlineCourses = () => {
             {online.map((val) => (
               <div className='box'>
                 <div className='img'>
-                  <img src={val.cover} />
-                  <img src={val.hoverCover} alt='' className='show' />
+                  <img src={val.cover} alt='val1' />
+                  <img src={val.hoverCover} alt='val2' className='show' />
                 </div>
                 <h1>{val.courseName}</h1>
                 <span>{val.course}</span>

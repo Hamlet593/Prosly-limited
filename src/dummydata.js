@@ -3,24 +3,25 @@ export const homeAbout = [
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
     title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "This is courses you need.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
     title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "This is courses you need.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
     title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "This is courses you need.",
   },
-]
+];
 export const awrapper = [
   {
-    cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
+    cover:
+      "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
     data: "3,000",
     title: "SUCCESS STORIES",
   },
@@ -31,7 +32,8 @@ export const awrapper = [
     title: "TRUSTED TUTORS",
   },
   {
-    cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
+    cover:
+      "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
     data: "1,000",
     title: "SCHEDULES",
   },
@@ -40,7 +42,7 @@ export const awrapper = [
     data: "587",
     title: "COURSES",
   },
-]
+];
 export const coursesCard = [
   {
     id: 1,
@@ -168,7 +170,7 @@ export const coursesCard = [
     priceAll: "$20 All Course",
     pricePer: "$3 per month",
   },
-]
+];
 export const online = [
   {
     cover: "./images/courses/online/o1.png",
@@ -242,7 +244,7 @@ export const online = [
     courseName: "Web Management",
     course: "17 Courses",
   },
-]
+];
 export const team = [
   {
     cover: "./images/team/t1.webp",
@@ -284,29 +286,29 @@ export const team = [
     name: "Ph.D Brian Wooden",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
-]
+];
 export const price = [
   {
     name: "BASIC PLAN",
     price: "49K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "",
   },
   {
     name: "BEGINNER PLAN",
     price: "79K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "",
   },
   {
     name: "PREMIUM PLAN",
     price: "109k",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "",
   },
   {
     name: "ULTIMATE PLAN",
     price: "149K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "",
   },
-]
+];
 export const faq = [
   {
     title: "How to Enroll This Online Courses?",
@@ -332,15 +334,15 @@ export const faq = [
     title: "How It is hidden by default, until the collapse?",
     desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
   },
-]
+];
 export const blog = [
   {
     id: 1,
     type: "admin",
     date: "JAN. 18, 2021",
     com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Build your Engineering Career",
+    desc: "",
     cover: "../images/blog/b1.webp",
   },
   {
@@ -348,8 +350,8 @@ export const blog = [
     type: "admin",
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Build your Engineering Career",
+    desc: "",
     cover: "../images/blog/b2.webp",
   },
   {
@@ -357,8 +359,8 @@ export const blog = [
     type: "user",
     date: "MAY. 15, 2022",
     com: "10 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Build your Engineering Career",
+    desc: "",
     cover: "../images/blog/b3.webp",
   },
   {
@@ -366,8 +368,8 @@ export const blog = [
     type: "admin",
     date: "JAN. 02, 2022",
     com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Learn every time",
+    desc: "",
     cover: "../images/blog/b4.webp",
   },
   {
@@ -375,8 +377,8 @@ export const blog = [
     type: "admin",
     date: "DEC. 14, 2022",
     com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Touch yourself",
+    desc: "",
     cover: "../images/blog/b5.webp",
   },
   {
@@ -384,31 +386,28 @@ export const blog = [
     type: "user",
     date: "JAN. 18, 2021",
     com: "12 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Build my universe anytime.",
+    desc: "",
     cover: "../images/blog/b6.webp",
   },
-]
+];
 export const testimonal = [
   {
     id: 1,
     name: "ROGER SCOTT",
     post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     cover: "./images/testo/t1.webp",
   },
   {
     id: 2,
     name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    post: "SMM MANAGER",
     cover: "./images/testo/t2.webp",
   },
   {
     id: 3,
     name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    post: "ENGLISH TEACHER",
     cover: "./images/testo/t3.webp",
   },
-]
+];
