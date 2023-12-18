@@ -10,14 +10,14 @@ const Hero = () => {
           <div className='row'>
             <Heading subtitle='WELCOME TO PROSLY LIMITED ACADEMIA' title='PROSLY LIMITED ACADEMIA' />
             <p>Courses you need !</p>
-            <div className='button'>
+            {/* <div className='button'>
               <button className='primary-btn'>
                 GET STARTED NOW <i className='fa fa-long-arrow-alt-right'></i>
               </button>
               <button>
                 VIEW COURSE <i className='fa fa-long-arrow-alt-right'></i>
               </button>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
