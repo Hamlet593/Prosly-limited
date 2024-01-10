@@ -8,6 +8,8 @@ import Pricing from "./components/pricing/Pricing";
 import Blog from "./components/blog/Blog";
 import Footer from "./components/common/footer/Footer";
 import Home from "./components/home/Home";
+import Contact from "./components/contact/Contact";
+
 function App() {
   return (
     <>
@@ -17,6 +19,8 @@ function App() {
           <Route exact path="/" component={Home} />
           <Route exact path="/about" component={About} />
           <Route exact path="/courses" component={CourseHome} />
+          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/pricing" component={Pricing} />
           <Route exact path="/team" component={Team} />
           <Route exact path="/pricing" component={Pricing} />
           <Route exact path="/journal" component={Blog} />
